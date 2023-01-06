@@ -18,8 +18,8 @@ status-website:
   cname: monitoring.mrbmedia.org
   # baseUrl: /your-repo-name
   logoUrl: https://mrbmedia.org/wp-content/uploads/2020/08/Grad-Rectangle-Dark.svg
-  name: MRB Monitoring
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
+  # name: MRB Monitoring
+  introTitle: "**MRB Monitoring**"
   introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
   navbar:
     - title: Home
@@ -27,3 +27,9 @@ status-website:
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
+
+notifications:
+  NOTIFICATION_SLACK: true
+  NOTIFICATION_SLACK_WEBHOOK: true
+  NOTIFICATION_SLACK_WEBHOOK_URL: SLACK_HOOK
+
