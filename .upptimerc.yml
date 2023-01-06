@@ -31,7 +31,7 @@ status-website:
 notifications:
   NOTIFICATION_SLACK: true
   NOTIFICATION_SLACK_WEBHOOK: true
-  NOTIFICATION_SLACK_WEBHOOK_URL: SLACK_HOOK
+  NOTIFICATION_SLACK_WEBHOOK_URL: ${{ secrets.SLACK_HOOK }}
 
 assignees:
   - mrbrant89
