@@ -3,14 +3,18 @@ owner: mrbrant89 # Your GitHub organization or username, where this repository l
 repo: mrb-monitoring # The name of this repository
 
 sites:
-  - name: MRB Media
+  - name: MRB Media [mrbmedia.org]
     url: https://mrbmedia.org
-  - name: Mike's Soaps
+  - name: Mike's Soaps [mikessoaps.com]
     url: https://mikessoaps.com
-  - name: Sync Social Media
+  - name: Sync Social Media [syncsocialmedia.com]
     url: https://syncsocialmedia.com
-  - name: Adams Avenue Business Association
+  - name: Adams Avenue Business Association [adamsavenuebusiness.com]
     url: https://www.adamsavenuebusiness.com/
+  - name: The Resale Source [theresalesource.com]
+    url: https://theresalesource.com/
+
+    
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
