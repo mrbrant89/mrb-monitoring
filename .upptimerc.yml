@@ -15,7 +15,10 @@ sites:
     url: https://theresalesource.com/
   - name: Simone & Blevins [landlordslegalcenter.com]
     url: https://landlordslegalcenter.com/
-
+  - name: Vitality Wellness [growwithvitality.com]
+    url: https://growwithvitality.com
+  - name: Sandy Asch [sandyasch.com]
+    url: https://sandyasch.com
     
 
 status-website:
