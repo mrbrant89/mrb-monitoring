@@ -130,17 +130,19 @@
     "url": "https://sandyasch.com",
     "icon": "https://icons.duckduckgo.com/ip3/sandyasch.com.ico",
     "slug": "sandy-asch-sandyasch-com",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 526,
-    "timeDay": 555,
-    "timeWeek": 526,
-    "timeMonth": 526,
-    "timeYear": 526,
-    "dailyMinutesDown": {}
+    "time": 494,
+    "timeDay": 412,
+    "timeWeek": 494,
+    "timeMonth": 494,
+    "timeYear": 494,
+    "dailyMinutesDown": {
+      "2023-01-18": 0
+    }
   }
 ]
