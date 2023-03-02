@@ -872,19 +872,19 @@
     "url": "https://wherethehellismichael.com",
     "icon": "https://icons.duckduckgo.com/ip3/wherethehellismichael.com.ico",
     "slug": "where-the-hell-michael-wherethehellismichael-com",
-    "status": "down",
-    "uptime": "0.38%",
-    "uptimeDay": "0.38%",
-    "uptimeWeek": "0.38%",
-    "uptimeMonth": "0.38%",
-    "uptimeYear": "0.38%",
-    "time": 353,
-    "timeDay": 353,
-    "timeWeek": 353,
-    "timeMonth": 353,
-    "timeYear": 353,
+    "status": "up",
+    "uptime": "0.61%",
+    "uptimeDay": "0.61%",
+    "uptimeWeek": "0.61%",
+    "uptimeMonth": "0.61%",
+    "uptimeYear": "0.61%",
+    "time": 450,
+    "timeDay": 450,
+    "timeWeek": 450,
+    "timeMonth": 450,
+    "timeYear": 450,
     "dailyMinutesDown": {
-      "2023-03-02": 7
+      "2023-03-02": 84
     }
   },
   {
