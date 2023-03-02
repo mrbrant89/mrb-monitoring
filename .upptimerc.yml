@@ -25,8 +25,6 @@ sites:
     url: https://kiwi-spa.com
   - name: Witchland [witchlandplay.com]
     url: https://witchlandplay.com
-  - name: East Village Vibes [eastvillagevibes.com]
-    url: https://eastvillagevibes.com
   - name: Manage My Entity [managemyentity.com]
     url: https://managemyentity.com
   - name: Prosperity Road [prosperityroad.com]
@@ -63,12 +61,8 @@ sites:
     url: https://kathywrightandco.com
   - name: Single Oak Realty [singleoakrealty.com]
     url: https://singleoakrealty.com
-  - name: Tumbler Rack [tumblerrack.com]
-    url: https://tumblerrack.com
   - name: Mike's Extraordinary Soap [mikessoaps.com]
     url: https://mikessoaps.com
-  - name: E.R. Buendia [erbuendia.com]
-    url: https://erbuendia.com
   - name: The GreenHouse Group [thegreenhousegroupinc.com]
     url: https://thegreenhousegroupinc.com
   - name: Robert Ferdowsmakan [torreyhillsoms.com]
