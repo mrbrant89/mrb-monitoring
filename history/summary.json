@@ -96,7 +96,7 @@
     "slug": "vintage-camera-box-vintagecamerabox-com",
     "status": "up",
     "uptime": "96.23%",
-    "uptimeDay": "73.16%",
+    "uptimeDay": "76.10%",
     "uptimeWeek": "95.85%",
     "uptimeMonth": "96.23%",
     "uptimeYear": "96.23%",
@@ -550,10 +550,10 @@
     "url": "https://thegreenhousegroupinc.com",
     "icon": "https://icons.duckduckgo.com/ip3/thegreenhousegroupinc.com.ico",
     "slug": "the-green-house-group-thegreenhousegroupinc-com",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1122,
@@ -561,7 +561,9 @@
     "timeWeek": 1179,
     "timeMonth": 1122,
     "timeYear": 1122,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-03-17": 1
+    }
   },
   {
     "name": "Robert Ferdowsmakan [torreyhillsoms.com]",
@@ -892,7 +894,7 @@
     "timeMonth": 395,
     "timeYear": 395,
     "dailyMinutesDown": {
-      "2023-03-17": 81,
+      "2023-03-17": 124,
       "2023-03-16": 1440,
       "2023-03-15": 1440,
       "2023-03-14": 1440,
