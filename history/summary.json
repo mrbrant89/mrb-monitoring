@@ -76,19 +76,19 @@
     "url": "https://hannibalsquareclt.org",
     "icon": "https://icons.duckduckgo.com/ip3/hannibalsquareclt.org.ico",
     "slug": "hannibal-square-hannibalsquareclt-org",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 602,
-    "timeDay": 395,
-    "timeWeek": 558,
-    "timeMonth": 602,
-    "timeYear": 602,
+    "status": "up",
+    "uptime": "99.96%",
+    "uptimeDay": "99.37%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.96%",
+    "time": 614,
+    "timeDay": 560,
+    "timeWeek": 595,
+    "timeMonth": 614,
+    "timeYear": 614,
     "dailyMinutesDown": {
-      "2023-03-20": 1
+      "2023-03-20": 9
     }
   },
   {
@@ -896,7 +896,7 @@
     "timeMonth": 376,
     "timeYear": 376,
     "dailyMinutesDown": {
-      "2023-03-20": 885,
+      "2023-03-20": 894,
       "2023-03-19": 1440,
       "2023-03-18": 1440,
       "2023-03-17": 1440,
