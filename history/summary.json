@@ -95,14 +95,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/vintagecamerabox.com.ico",
     "slug": "vintage-camera-box-vintagecamerabox-com",
     "status": "up",
-    "uptime": "97.34%",
+    "uptime": "97.39%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "96.13%",
-    "uptimeMonth": "97.34%",
-    "uptimeYear": "97.34%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "97.39%",
+    "uptimeYear": "97.39%",
     "time": 455,
     "timeDay": 780,
-    "timeWeek": 474,
+    "timeWeek": 384,
     "timeMonth": 455,
     "timeYear": 455,
     "dailyMinutesDown": {
@@ -596,7 +596,7 @@
     "uptimeYear": "100.00%",
     "time": 2968,
     "timeDay": 1324,
-    "timeWeek": 2751,
+    "timeWeek": 1050,
     "timeMonth": 2968,
     "timeYear": 2968,
     "dailyMinutesDown": {}
@@ -736,9 +736,9 @@
     "url": "https://purestructures.co.uk",
     "icon": "https://icons.duckduckgo.com/ip3/purestructures.co.uk.ico",
     "slug": "pure-structures-limited-purestructures-co-uk",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -747,7 +747,9 @@
     "timeWeek": 2117,
     "timeMonth": 1989,
     "timeYear": 1989,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-03-23": 0
+    }
   },
   {
     "name": "Hilary Hendershott [hilaryhendershott.com]",
@@ -894,7 +896,7 @@
     "timeMonth": 366,
     "timeYear": 366,
     "dailyMinutesDown": {
-      "2023-03-23": 77,
+      "2023-03-23": 646,
       "2023-03-22": 1440,
       "2023-03-21": 1440,
       "2023-03-20": 1440,
