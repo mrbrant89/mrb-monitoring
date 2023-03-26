@@ -224,18 +224,19 @@
     "url": "https://prosperityroad.com",
     "icon": "https://icons.duckduckgo.com/ip3/prosperityroad.com.ico",
     "slug": "prosperity-road-prosperityroad-com",
-    "status": "up",
-    "uptime": "99.95%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "99.94%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.95%",
-    "uptimeYear": "99.95%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.94%",
     "time": 1440,
     "timeDay": 913,
     "timeWeek": 1180,
     "timeMonth": 1440,
     "timeYear": 1440,
     "dailyMinutesDown": {
+      "2023-03-26": 1,
       "2023-03-03": 19
     }
   },
@@ -894,7 +895,7 @@
     "timeMonth": 353,
     "timeYear": 353,
     "dailyMinutesDown": {
-      "2023-03-26": 1050,
+      "2023-03-26": 1060,
       "2023-03-25": 1440,
       "2023-03-24": 1440,
       "2023-03-23": 1440,
