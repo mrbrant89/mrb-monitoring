@@ -311,19 +311,19 @@
     "url": "https://samedaydamagerestoration.com",
     "icon": "https://icons.duckduckgo.com/ip3/samedaydamagerestoration.com.ico",
     "slug": "same-day-restoration-samedaydamagerestoration-com",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 354,
-    "timeDay": 2528,
-    "timeWeek": 839,
-    "timeMonth": 420,
-    "timeYear": 354,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.40%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
+    "time": 353,
+    "timeDay": 1779,
+    "timeWeek": 777,
+    "timeMonth": 415,
+    "timeYear": 353,
     "dailyMinutesDown": {
-      "2023-05-12": 1
+      "2023-05-12": 9
     }
   },
   {
