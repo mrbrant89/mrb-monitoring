@@ -297,7 +297,7 @@
     "timeMonth": 776,
     "timeYear": 752,
     "dailyMinutesDown": {
-      "2023-08-27": 1124,
+      "2023-08-27": 1133,
       "2023-08-26": 1440,
       "2023-08-25": 1440,
       "2023-08-24": 1440,
@@ -385,7 +385,7 @@
     "timeMonth": 0,
     "timeYear": 495,
     "dailyMinutesDown": {
-      "2023-08-27": 1124,
+      "2023-08-27": 1133,
       "2023-08-26": 1440,
       "2023-08-25": 1440,
       "2023-08-24": 1440,
@@ -469,19 +469,19 @@
     "url": "https://samedaydamagerestoration.com",
     "icon": "https://icons.duckduckgo.com/ip3/samedaydamagerestoration.com.ico",
     "slug": "same-day-restoration-samedaydamagerestoration-com",
-    "status": "down",
-    "uptime": "99.83%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.83%",
+    "status": "up",
+    "uptime": "99.82%",
+    "uptimeDay": "99.38%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.82%",
     "time": 313,
-    "timeDay": 193,
-    "timeWeek": 255,
-    "timeMonth": 260,
+    "timeDay": 207,
+    "timeWeek": 252,
+    "timeMonth": 259,
     "timeYear": 313,
     "dailyMinutesDown": {
-      "2023-08-27": 1,
+      "2023-08-27": 9,
       "2023-07-18": 443
     }
   },
@@ -625,7 +625,7 @@
     "timeMonth": 0,
     "timeYear": 1035,
     "dailyMinutesDown": {
-      "2023-08-27": 1124,
+      "2023-08-27": 1133,
       "2023-08-26": 1440,
       "2023-08-25": 1440,
       "2023-08-24": 1440,
@@ -1012,7 +1012,7 @@
     "timeMonth": 957,
     "timeYear": 884,
     "dailyMinutesDown": {
-      "2023-08-27": 1125,
+      "2023-08-27": 1134,
       "2023-08-26": 1440,
       "2023-08-25": 1440,
       "2023-08-24": 1440,
@@ -1142,7 +1142,7 @@
     "timeMonth": 341,
     "timeYear": 326,
     "dailyMinutesDown": {
-      "2023-08-27": 1125,
+      "2023-08-27": 1134,
       "2023-08-26": 1440,
       "2023-08-25": 1440,
       "2023-08-24": 1440,
@@ -1250,7 +1250,7 @@
     "timeMonth": 2365,
     "timeYear": 2132,
     "dailyMinutesDown": {
-      "2023-08-27": 1125,
+      "2023-08-27": 1134,
       "2023-08-26": 1440,
       "2023-08-25": 1440,
       "2023-08-24": 1440,
