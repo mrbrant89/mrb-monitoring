@@ -85,7 +85,7 @@
     "status": "down",
     "uptime": "99.61%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "69.17%",
+    "uptimeWeek": "69.14%",
     "uptimeMonth": "92.90%",
     "uptimeYear": "99.41%",
     "time": 418,
@@ -94,7 +94,7 @@
     "timeMonth": 400,
     "timeYear": 444,
     "dailyMinutesDown": {
-      "2024-09-08": 1395,
+      "2024-09-08": 1398,
       "2024-09-07": 1440,
       "2024-09-06": 273
     }
@@ -159,7 +159,7 @@
     "timeMonth": 81,
     "timeYear": 501,
     "dailyMinutesDown": {
-      "2024-09-08": 1395,
+      "2024-09-08": 1398,
       "2024-09-07": 1440,
       "2024-09-06": 1440,
       "2024-09-05": 1440,
@@ -635,7 +635,7 @@
     "timeMonth": 0,
     "timeYear": 297,
     "dailyMinutesDown": {
-      "2024-09-08": 1395,
+      "2024-09-08": 1398,
       "2024-09-07": 1440,
       "2024-09-06": 1440,
       "2024-09-05": 1440,
@@ -776,17 +776,17 @@
     "url": "https://l.kickthefearoutofyourfinances.com",
     "icon": "https://icons.duckduckgo.com/ip3/l.kickthefearoutofyourfinances.com.ico",
     "slug": "kick-the-fear-out-of-your-finances-l-kickthefearoutofyourfinances-com",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 3926,
-    "timeDay": 0,
-    "timeWeek": 7001,
-    "timeMonth": 6985,
-    "timeYear": 4273,
+    "time": 3935,
+    "timeDay": 6855,
+    "timeWeek": 6980,
+    "timeMonth": 6981,
+    "timeYear": 4280,
     "dailyMinutesDown": {}
   },
   {
@@ -979,7 +979,7 @@
     "timeMonth": 106,
     "timeYear": 151,
     "dailyMinutesDown": {
-      "2024-09-08": 1396,
+      "2024-09-08": 1399,
       "2024-09-07": 1440,
       "2024-09-06": 1440,
       "2024-09-05": 1440,
@@ -1350,7 +1350,7 @@
     "timeMonth": 108,
     "timeYear": 231,
     "dailyMinutesDown": {
-      "2024-09-08": 1396,
+      "2024-09-08": 1399,
       "2024-09-07": 1440,
       "2024-09-06": 1440,
       "2024-09-05": 1440,
