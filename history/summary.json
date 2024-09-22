@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 1357,
-    "timeDay": 2562,
-    "timeWeek": 2690,
-    "timeMonth": 2728,
-    "timeYear": 1519,
+    "time": 1361,
+    "timeDay": 2560,
+    "timeWeek": 2663,
+    "timeMonth": 2717,
+    "timeYear": 1524,
     "dailyMinutesDown": {
       "2024-08-11": 49,
       "2024-06-30": 53,
@@ -34,9 +34,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.92%",
     "time": 592,
-    "timeDay": 450,
-    "timeWeek": 623,
-    "timeMonth": 791,
+    "timeDay": 464,
+    "timeWeek": 557,
+    "timeMonth": 779,
     "timeYear": 630,
     "dailyMinutesDown": {
       "2024-08-11": 47,
@@ -56,15 +56,13 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.20%",
-    "time": 1358,
-    "timeDay": 1394,
-    "timeWeek": 1204,
-    "timeMonth": 1262,
+    "uptimeYear": "99.48%",
+    "time": 1357,
+    "timeDay": 1320,
+    "timeWeek": 1265,
+    "timeMonth": 1258,
     "timeYear": 1261,
-    "dailyMinutesDown": {
-      "2023-09-23": 1388
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Vitality Integrative Wellness [growwithvitality.com]",
@@ -72,18 +70,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/growwithvitality.com.ico",
     "slug": "vitality-integrative-wellness-growwithvitality-com",
     "status": "down",
-    "uptime": "97.49%",
+    "uptime": "97.32%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "53.17%",
-    "uptimeYear": "96.10%",
-    "time": 415,
-    "timeDay": 111,
-    "timeWeek": 106,
-    "timeMonth": 296,
+    "uptimeMonth": "49.85%",
+    "uptimeYear": "95.82%",
+    "time": 414,
+    "timeDay": 105,
+    "timeWeek": 112,
+    "timeMonth": 292,
     "timeYear": 437,
     "dailyMinutesDown": {
-      "2024-09-21": 82,
+      "2024-09-22": 97,
+      "2024-09-21": 1440,
       "2024-09-20": 1440,
       "2024-09-19": 1440,
       "2024-09-18": 1440,
@@ -113,13 +112,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 556,
-    "timeDay": 830,
-    "timeWeek": 534,
-    "timeMonth": 574,
-    "timeYear": 593,
-    "dailyMinutesDown": {
-      "2023-09-23": 148
-    }
+    "timeDay": 679,
+    "timeWeek": 591,
+    "timeMonth": 582,
+    "timeYear": 594,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Joy Furhman & Associates [joyfuhrman.com]",
@@ -133,13 +130,12 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 1291,
-    "timeDay": 1399,
-    "timeWeek": 1239,
-    "timeMonth": 1234,
+    "timeDay": 1233,
+    "timeWeek": 1265,
+    "timeMonth": 1239,
     "timeYear": 1250,
     "dailyMinutesDown": {
-      "2024-05-31": 56,
-      "2023-09-23": 147
+      "2024-05-31": 56
     }
   },
   {
@@ -148,18 +144,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.frontierfp.biz.ico",
     "slug": "frontier-financial-planning-frontierfp-biz",
     "status": "down",
-    "uptime": "35.62%",
+    "uptime": "35.55%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "9.57%",
-    "time": 648,
-    "timeDay": 87,
-    "timeWeek": 74,
-    "timeMonth": 85,
-    "timeYear": 462,
+    "uptimeYear": "9.29%",
+    "time": 645,
+    "timeDay": 78,
+    "timeWeek": 77,
+    "timeMonth": 84,
+    "timeYear": 458,
     "dailyMinutesDown": {
-      "2024-09-21": 82,
+      "2024-09-22": 97,
+      "2024-09-21": 1440,
       "2024-09-20": 1440,
       "2024-09-19": 1440,
       "2024-09-18": 1440,
@@ -495,8 +492,7 @@
       "2023-10-16": 17,
       "2023-09-26": 142,
       "2023-09-25": 299,
-      "2023-09-24": 20,
-      "2023-09-23": 235
+      "2023-09-24": 20
     }
   },
   {
@@ -510,14 +506,12 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 1045,
-    "timeDay": 708,
-    "timeWeek": 485,
-    "timeMonth": 537,
-    "timeYear": 1022,
-    "dailyMinutesDown": {
-      "2023-09-23": 147
-    }
+    "time": 1044,
+    "timeDay": 527,
+    "timeWeek": 528,
+    "timeMonth": 543,
+    "timeYear": 1021,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Manage My Entity [managemyentity.com]",
@@ -530,19 +524,18 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.90%",
-    "time": 384,
-    "timeDay": 510,
-    "timeWeek": 375,
-    "timeMonth": 413,
-    "timeYear": 415,
+    "time": 385,
+    "timeDay": 417,
+    "timeWeek": 391,
+    "timeMonth": 416,
+    "timeYear": 416,
     "dailyMinutesDown": {
       "2024-04-07": 1027,
       "2024-04-06": 1440,
       "2024-04-05": 1440,
       "2024-04-04": 1440,
       "2024-04-03": 263,
-      "2023-10-16": 34,
-      "2023-09-23": 146
+      "2023-10-16": 34
     }
   },
   {
@@ -557,10 +550,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "95.56%",
     "time": 491,
-    "timeDay": 762,
-    "timeWeek": 534,
-    "timeMonth": 555,
-    "timeYear": 520,
+    "timeDay": 493,
+    "timeWeek": 570,
+    "timeMonth": 559,
+    "timeYear": 521,
     "dailyMinutesDown": {
       "2023-11-29": 311,
       "2023-11-28": 1440,
@@ -578,8 +571,7 @@
       "2023-11-16": 1440,
       "2023-11-15": 1440,
       "2023-11-14": 1440,
-      "2023-11-13": 1277,
-      "2023-09-23": 146
+      "2023-11-13": 1277
     }
   },
   {
@@ -594,13 +586,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 345,
-    "timeDay": 430,
-    "timeWeek": 336,
-    "timeMonth": 379,
+    "timeDay": 335,
+    "timeWeek": 356,
+    "timeMonth": 380,
     "timeYear": 361,
-    "dailyMinutesDown": {
-      "2023-09-23": 144
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Bennch Transport Services [iloilocarrentals.com]",
@@ -608,16 +598,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/iloilocarrentals.com.ico",
     "slug": "bennch-transport-services-iloilocarrentals-com",
     "status": "up",
-    "uptime": "86.13%",
+    "uptime": "86.16%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.92%",
-    "time": 962,
-    "timeDay": 1102,
-    "timeWeek": 1314,
-    "timeMonth": 1493,
-    "timeYear": 1010,
+    "time": 963,
+    "timeDay": 1130,
+    "timeWeek": 1265,
+    "timeMonth": 1465,
+    "timeYear": 1012,
     "dailyMinutesDown": {
       "2024-08-11": 47,
       "2024-06-30": 43,
@@ -633,18 +623,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/samedaydamagerestoration.com.ico",
     "slug": "same-day-restoration-samedaydamagerestoration-com",
     "status": "down",
-    "uptime": "91.10%",
+    "uptime": "90.94%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "86.24%",
+    "uptimeYear": "85.96%",
     "time": 294,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 298,
     "dailyMinutesDown": {
-      "2024-09-21": 82,
+      "2024-09-22": 97,
+      "2024-09-21": 1440,
       "2024-09-20": 1440,
       "2024-09-19": 1440,
       "2024-09-18": 1440,
@@ -706,16 +697,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/tailoredlegal.com.ico",
     "slug": "tailored-legal-tailoredlegal-com",
     "status": "up",
-    "uptime": "95.47%",
+    "uptime": "95.48%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "92.95%",
     "time": 1115,
-    "timeDay": 1187,
-    "timeWeek": 1064,
-    "timeMonth": 1156,
-    "timeYear": 1078,
+    "timeDay": 1160,
+    "timeWeek": 1087,
+    "timeMonth": 1160,
+    "timeYear": 1079,
     "dailyMinutesDown": {
       "2024-05-22": 1178,
       "2024-05-21": 1440,
@@ -742,8 +733,7 @@
       "2024-04-30": 1440,
       "2024-04-29": 1440,
       "2024-04-28": 1440,
-      "2024-04-27": 1172,
-      "2023-09-23": 136
+      "2024-04-27": 1172
     }
   },
   {
@@ -758,13 +748,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 348,
-    "timeDay": 408,
-    "timeWeek": 325,
-    "timeMonth": 318,
+    "timeDay": 332,
+    "timeWeek": 344,
+    "timeMonth": 321,
     "timeYear": 337,
-    "dailyMinutesDown": {
-      "2023-09-23": 141
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Fleming & Associates [flemingandassociatesllc.com]",
@@ -777,11 +765,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
-    "time": 417,
-    "timeDay": 339,
-    "timeWeek": 551,
-    "timeMonth": 548,
-    "timeYear": 396,
+    "time": 418,
+    "timeDay": 400,
+    "timeWeek": 494,
+    "timeMonth": 534,
+    "timeYear": 397,
     "dailyMinutesDown": {
       "2024-08-11": 46,
       "2024-06-30": 43,
@@ -803,11 +791,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 4061,
-    "timeDay": 6959,
-    "timeWeek": 7262,
-    "timeMonth": 7067,
-    "timeYear": 4436,
+    "time": 4069,
+    "timeDay": 6886,
+    "timeWeek": 7226,
+    "timeMonth": 7058,
+    "timeYear": 4447,
     "dailyMinutesDown": {}
   },
   {
@@ -821,14 +809,13 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
-    "time": 617,
-    "timeDay": 653,
-    "timeWeek": 799,
-    "timeMonth": 705,
+    "time": 618,
+    "timeDay": 597,
+    "timeWeek": 717,
+    "timeMonth": 706,
     "timeYear": 658,
     "dailyMinutesDown": {
-      "2024-06-03": 64,
-      "2023-09-23": 140
+      "2024-06-03": 64
     }
   },
   {
@@ -840,13 +827,13 @@
     "uptime": "99.17%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "97.32%",
-    "uptimeMonth": "96.59%",
+    "uptimeMonth": "96.80%",
     "uptimeYear": "98.72%",
     "time": 1533,
-    "timeDay": 1579,
-    "timeWeek": 1255,
-    "timeMonth": 1600,
-    "timeYear": 1463,
+    "timeDay": 1357,
+    "timeWeek": 1264,
+    "timeMonth": 1582,
+    "timeYear": 1461,
     "dailyMinutesDown": {
       "2024-09-18": 223,
       "2024-09-17": 47,
@@ -897,8 +884,7 @@
       "2023-11-04": 26,
       "2023-10-25": 74,
       "2023-10-20": 3,
-      "2023-10-18": 31,
-      "2023-09-23": 140
+      "2023-10-18": 31
     }
   },
   {
@@ -912,10 +898,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 523,
-    "timeDay": 812,
-    "timeWeek": 538,
-    "timeMonth": 524,
+    "time": 524,
+    "timeDay": 643,
+    "timeWeek": 586,
+    "timeMonth": 531,
     "timeYear": 543,
     "dailyMinutesDown": {
       "2023-10-18": 31
@@ -933,13 +919,12 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 409,
-    "timeDay": 643,
-    "timeWeek": 450,
-    "timeMonth": 459,
-    "timeYear": 429,
+    "timeDay": 478,
+    "timeWeek": 474,
+    "timeMonth": 462,
+    "timeYear": 430,
     "dailyMinutesDown": {
-      "2023-10-18": 30,
-      "2023-09-23": 136
+      "2023-10-18": 30
     }
   },
   {
@@ -954,9 +939,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.90%",
     "time": 327,
-    "timeDay": 130,
-    "timeWeek": 311,
-    "timeMonth": 325,
+    "timeDay": 251,
+    "timeWeek": 273,
+    "timeMonth": 315,
     "timeYear": 299,
     "dailyMinutesDown": {
       "2024-08-11": 45,
@@ -977,11 +962,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1533,
-    "timeDay": 638,
-    "timeWeek": 1429,
-    "timeMonth": 1560,
-    "timeYear": 1485,
+    "time": 1534,
+    "timeDay": 1564,
+    "timeWeek": 1396,
+    "timeMonth": 1577,
+    "timeYear": 1487,
     "dailyMinutesDown": {}
   },
   {
@@ -990,18 +975,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/sdwhalewatch.com.ico",
     "slug": "san-diego-whale-watch-sdwhalewatch-com",
     "status": "down",
-    "uptime": "55.16%",
+    "uptime": "55.06%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "30.20%",
-    "time": 210,
-    "timeDay": 120,
-    "timeWeek": 92,
-    "timeMonth": 108,
+    "uptimeYear": "29.92%",
+    "time": 209,
+    "timeDay": 57,
+    "timeWeek": 86,
+    "timeMonth": 106,
     "timeYear": 142,
     "dailyMinutesDown": {
-      "2024-09-21": 82,
+      "2024-09-22": 98,
+      "2024-09-21": 1440,
       "2024-09-20": 1440,
       "2024-09-19": 1440,
       "2024-09-18": 1440,
@@ -1270,10 +1256,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1314,
-    "timeDay": 1544,
-    "timeWeek": 1073,
-    "timeMonth": 1203,
+    "time": 1313,
+    "timeDay": 1298,
+    "timeWeek": 1172,
+    "timeMonth": 1216,
     "timeYear": 1112,
     "dailyMinutesDown": {
       "2024-08-14": 19
@@ -1290,11 +1276,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.92%",
-    "time": 2215,
-    "timeDay": 3862,
-    "timeWeek": 3921,
-    "timeMonth": 4024,
-    "timeYear": 2562,
+    "time": 2219,
+    "timeDay": 3639,
+    "timeWeek": 3833,
+    "timeMonth": 3988,
+    "timeYear": 2568,
     "dailyMinutesDown": {
       "2024-08-11": 43,
       "2024-06-30": 27,
@@ -1315,14 +1301,13 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.95%",
     "time": 338,
-    "timeDay": 92,
-    "timeWeek": 138,
-    "timeMonth": 119,
+    "timeDay": 98,
+    "timeWeek": 130,
+    "timeMonth": 117,
     "timeYear": 344,
     "dailyMinutesDown": {
       "2024-05-21": 85,
-      "2023-10-18": 29,
-      "2023-09-23": 135
+      "2023-10-18": 29
     }
   },
   {
@@ -1336,16 +1321,15 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
-    "time": 434,
-    "timeDay": 428,
-    "timeWeek": 610,
-    "timeMonth": 665,
-    "timeYear": 494,
+    "time": 435,
+    "timeDay": 573,
+    "timeWeek": 579,
+    "timeMonth": 659,
+    "timeYear": 495,
     "dailyMinutesDown": {
       "2024-08-11": 42,
       "2024-04-26": 34,
-      "2023-10-18": 29,
-      "2023-09-23": 128
+      "2023-10-18": 29
     }
   },
   {
@@ -1359,14 +1343,12 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 377,
-    "timeDay": 527,
-    "timeWeek": 376,
-    "timeMonth": 382,
-    "timeYear": 402,
-    "dailyMinutesDown": {
-      "2023-09-23": 132
-    }
+    "time": 374,
+    "timeDay": 349,
+    "timeWeek": 405,
+    "timeMonth": 384,
+    "timeYear": 403,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Adams Avenue [adamsavenuebusiness.com]",
@@ -1374,18 +1356,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/adamsavenuebusiness.com.ico",
     "slug": "adams-avenue-adamsavenuebusiness-com",
     "status": "down",
-    "uptime": "36.11%",
+    "uptime": "36.05%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "0.54%",
-    "time": 856,
-    "timeDay": 85,
-    "timeWeek": 94,
-    "timeMonth": 104,
-    "timeYear": 157,
+    "uptimeYear": "0.26%",
+    "time": 852,
+    "timeDay": 101,
+    "timeWeek": 101,
+    "timeMonth": 103,
+    "timeYear": 152,
     "dailyMinutesDown": {
-      "2024-09-21": 83,
+      "2024-09-22": 98,
+      "2024-09-21": 1440,
       "2024-09-20": 1440,
       "2024-09-19": 1440,
       "2024-09-18": 1440,
@@ -1748,8 +1731,7 @@
       "2023-09-27": 1431,
       "2023-09-26": 1440,
       "2023-09-25": 1440,
-      "2023-09-24": 1440,
-      "2023-09-23": 184
+      "2023-09-24": 1440
     }
   },
   {
@@ -1758,19 +1740,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/michaelbrant.com.ico",
     "slug": "michael-brant-michaelbrant-com",
     "status": "up",
-    "uptime": "83.23%",
+    "uptime": "83.26%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.20%",
-    "time": 825,
-    "timeDay": 799,
-    "timeWeek": 623,
-    "timeMonth": 734,
+    "uptimeYear": "99.48%",
+    "time": 824,
+    "timeDay": 669,
+    "timeWeek": 642,
+    "timeMonth": 720,
     "timeYear": 794,
-    "dailyMinutesDown": {
-      "2023-09-23": 1387
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "MRB Development [mrbdev.com]",
@@ -1784,13 +1764,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 398,
-    "timeDay": 626,
-    "timeWeek": 465,
-    "timeMonth": 474,
-    "timeYear": 428,
-    "dailyMinutesDown": {
-      "2023-09-23": 129
-    }
+    "timeDay": 446,
+    "timeWeek": 488,
+    "timeMonth": 475,
+    "timeYear": 429,
+    "dailyMinutesDown": {}
   },
   {
     "name": "MRB Hosting [mrbhost.com]",
@@ -1804,14 +1782,13 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.61%",
     "time": 376,
-    "timeDay": 546,
-    "timeWeek": 367,
-    "timeMonth": 386,
-    "timeYear": 406,
+    "timeDay": 396,
+    "timeWeek": 397,
+    "timeMonth": 389,
+    "timeYear": 407,
     "dailyMinutesDown": {
       "2023-10-17": 1193,
-      "2023-10-16": 733,
-      "2023-09-23": 129
+      "2023-10-16": 733
     }
   },
   {
@@ -1820,19 +1797,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/mrbmedia.org.ico",
     "slug": "mrb-media-inc-mrbmedia-org",
     "status": "up",
-    "uptime": "83.23%",
+    "uptime": "83.26%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.19%",
+    "uptimeYear": "99.46%",
     "time": 461,
-    "timeDay": 490,
-    "timeWeek": 422,
-    "timeMonth": 434,
+    "timeDay": 455,
+    "timeWeek": 451,
+    "timeMonth": 441,
     "timeYear": 499,
     "dailyMinutesDown": {
-      "2023-10-16": 89,
-      "2023-09-23": 1387
+      "2023-10-16": 89
     }
   },
   {
@@ -1846,14 +1822,12 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 1277,
-    "timeDay": 1269,
-    "timeWeek": 1227,
-    "timeMonth": 1458,
+    "time": 1278,
+    "timeDay": 1137,
+    "timeWeek": 1273,
+    "timeMonth": 1441,
     "timeYear": 1357,
-    "dailyMinutesDown": {
-      "2023-09-23": 126
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Where The Hell Michael [wherethehellismichael.com]",
@@ -1861,16 +1835,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/wherethehellismichael.com.ico",
     "slug": "where-the-hell-michael-wherethehellismichael-com",
     "status": "up",
-    "uptime": "71.00%",
+    "uptime": "71.05%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "87.96%",
-    "time": 1021,
-    "timeDay": 506,
-    "timeWeek": 528,
-    "timeMonth": 525,
-    "timeYear": 538,
+    "uptimeYear": "88.24%",
+    "time": 1017,
+    "timeDay": 466,
+    "timeWeek": 513,
+    "timeMonth": 519,
+    "timeYear": 533,
     "dailyMinutesDown": {
       "2024-08-11": 40,
       "2024-01-28": 16,
@@ -1914,8 +1888,7 @@
       "2023-09-27": 1440,
       "2023-09-26": 1440,
       "2023-09-25": 1440,
-      "2023-09-24": 1440,
-      "2023-09-23": 1440
+      "2023-09-24": 1440
     }
   },
   {
@@ -1929,13 +1902,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 1111,
-    "timeDay": 1347,
-    "timeWeek": 1281,
-    "timeMonth": 1282,
-    "timeYear": 1237,
-    "dailyMinutesDown": {
-      "2023-09-23": 126
-    }
+    "time": 1112,
+    "timeDay": 1124,
+    "timeWeek": 1299,
+    "timeMonth": 1283,
+    "timeYear": 1238,
+    "dailyMinutesDown": {}
   }
 ]
