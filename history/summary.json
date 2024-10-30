@@ -6,17 +6,17 @@
     "slug": "sync-social-media-syncsocialmedia-com",
     "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "98.95%",
-    "uptimeWeek": "99.66%",
-    "uptimeMonth": "99.92%",
-    "uptimeYear": "99.96%",
+    "uptimeDay": "98.42%",
+    "uptimeWeek": "99.58%",
+    "uptimeMonth": "99.90%",
+    "uptimeYear": "99.95%",
     "time": 1522,
     "timeDay": 2601,
     "timeWeek": 2520,
     "timeMonth": 2428,
     "timeYear": 1684,
     "dailyMinutesDown": {
-      "2024-10-30": 15,
+      "2024-10-30": 23,
       "2024-10-26": 19,
       "2024-09-28": 18,
       "2024-08-11": 49,
@@ -32,9 +32,9 @@
     "slug": "the-resale-source-theresalesource-com",
     "status": "up",
     "uptime": "99.95%",
-    "uptimeDay": "99.05%",
-    "uptimeWeek": "99.69%",
-    "uptimeMonth": "99.93%",
+    "uptimeDay": "98.53%",
+    "uptimeWeek": "99.61%",
+    "uptimeMonth": "99.91%",
     "uptimeYear": "99.92%",
     "time": 621,
     "timeDay": 297,
@@ -42,7 +42,7 @@
     "timeMonth": 527,
     "timeYear": 636,
     "dailyMinutesDown": {
-      "2024-10-30": 14,
+      "2024-10-30": 21,
       "2024-10-26": 18,
       "2024-09-28": 17,
       "2024-08-11": 47,
@@ -56,19 +56,19 @@
     "url": "https://ljpres.org",
     "icon": "https://icons.duckduckgo.com/ip3/ljpres.org.ico",
     "slug": "la-jolla-presbyterian-church-ljpres-org",
-    "status": "down",
+    "status": "up",
     "uptime": "98.10%",
-    "uptimeDay": "99.09%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "98.60%",
+    "uptimeWeek": "99.80%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "100.00%",
-    "time": 1334,
-    "timeDay": 1520,
-    "timeWeek": 1335,
-    "timeMonth": 1333,
-    "timeYear": 1257,
+    "time": 1332,
+    "timeDay": 1137,
+    "timeWeek": 1270,
+    "timeMonth": 1315,
+    "timeYear": 1256,
     "dailyMinutesDown": {
-      "2024-10-30": 13
+      "2024-10-30": 20
     }
   },
   {
@@ -88,7 +88,7 @@
     "timeMonth": 105,
     "timeYear": 414,
     "dailyMinutesDown": {
-      "2024-10-30": 822,
+      "2024-10-30": 829,
       "2024-10-29": 1440,
       "2024-10-28": 1440,
       "2024-10-27": 1440,
@@ -150,19 +150,19 @@
     "url": "https://hannibalsquareclt.org",
     "icon": "https://icons.duckduckgo.com/ip3/hannibalsquareclt.org.ico",
     "slug": "hannibal-square-hannibalsquareclt-org",
-    "status": "down",
+    "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "99.12%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "98.64%",
+    "uptimeWeek": "99.81%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
     "time": 570,
-    "timeDay": 826,
-    "timeWeek": 609,
-    "timeMonth": 644,
-    "timeYear": 611,
+    "timeDay": 552,
+    "timeWeek": 572,
+    "timeMonth": 633,
+    "timeYear": 610,
     "dailyMinutesDown": {
-      "2024-10-30": 13
+      "2024-10-30": 20
     }
   },
   {
@@ -172,9 +172,9 @@
     "slug": "joy-furhman-and-associates-joyfuhrman-com",
     "status": "up",
     "uptime": "99.96%",
-    "uptimeDay": "99.15%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "98.63%",
+    "uptimeWeek": "99.80%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "99.99%",
     "time": 1282,
     "timeDay": 1303,
@@ -182,7 +182,7 @@
     "timeMonth": 1345,
     "timeYear": 1250,
     "dailyMinutesDown": {
-      "2024-10-30": 12,
+      "2024-10-30": 20,
       "2024-05-31": 56
     }
   },
@@ -203,7 +203,7 @@
     "timeMonth": 80,
     "timeYear": 75,
     "dailyMinutesDown": {
-      "2024-10-30": 822,
+      "2024-10-30": 830,
       "2024-10-29": 1440,
       "2024-10-28": 1440,
       "2024-10-27": 1440,
@@ -577,9 +577,9 @@
     "slug": "witchland-witchlandplay-com",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.21%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "98.69%",
+    "uptimeWeek": "99.81%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
     "time": 1009,
     "timeDay": 717,
@@ -587,7 +587,7 @@
     "timeMonth": 589,
     "timeYear": 968,
     "dailyMinutesDown": {
-      "2024-10-30": 11
+      "2024-10-30": 19
     }
   },
   {
@@ -597,9 +597,9 @@
     "slug": "manage-my-entity-managemyentity-com",
     "status": "up",
     "uptime": "99.33%",
-    "uptimeDay": "99.28%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "98.75%",
+    "uptimeWeek": "99.82%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "98.93%",
     "time": 389,
     "timeDay": 485,
@@ -607,7 +607,7 @@
     "timeMonth": 421,
     "timeYear": 421,
     "dailyMinutesDown": {
-      "2024-10-30": 10,
+      "2024-10-30": 18,
       "2024-04-07": 1027,
       "2024-04-06": 1440,
       "2024-04-05": 1440,
@@ -658,9 +658,9 @@
     "slug": "a-healthy-divorce-ahealthydivorce-com",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.42%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "98.90%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
     "time": 348,
     "timeDay": 450,
@@ -668,7 +668,7 @@
     "timeMonth": 396,
     "timeYear": 372,
     "dailyMinutesDown": {
-      "2024-10-30": 8
+      "2024-10-30": 16
     }
   },
   {
@@ -702,10 +702,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/samedaydamagerestoration.com.ico",
     "slug": "same-day-restoration-samedaydamagerestoration-com",
     "status": "up",
-    "uptime": "88.28%",
+    "uptime": "88.29%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "63.38%",
+    "uptimeMonth": "63.40%",
     "uptimeYear": "80.59%",
     "time": 307,
     "timeDay": 113,
@@ -797,17 +797,17 @@
     "slug": "tailored-legal-tailoredlegal-com",
     "status": "up",
     "uptime": "95.76%",
-    "uptimeDay": "99.52%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "92.98%",
+    "uptimeDay": "99.00%",
+    "uptimeWeek": "99.86%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "92.97%",
     "time": 1110,
     "timeDay": 1419,
     "timeWeek": 1184,
     "timeMonth": 1184,
     "timeYear": 1079,
     "dailyMinutesDown": {
-      "2024-10-30": 7,
+      "2024-10-30": 14,
       "2024-05-22": 1178,
       "2024-05-21": 1440,
       "2024-05-20": 1440,
@@ -843,9 +843,9 @@
     "slug": "ben-aguilar-esq-benaguilarlaw-com",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.63%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "99.11%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 326,
     "timeDay": 415,
@@ -853,7 +853,7 @@
     "timeMonth": 352,
     "timeYear": 342,
     "dailyMinutesDown": {
-      "2024-10-30": 5
+      "2024-10-30": 13
     }
   },
   {
@@ -1089,7 +1089,7 @@
     "timeMonth": 98,
     "timeYear": 122,
     "dailyMinutesDown": {
-      "2024-10-30": 823,
+      "2024-10-30": 830,
       "2024-10-29": 1440,
       "2024-10-28": 1440,
       "2024-10-27": 1440,
@@ -1392,10 +1392,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/petersonreporting.com.ico",
     "slug": "peterson-reporting-petersonreporting-com",
     "status": "up",
-    "uptime": "99.97%",
-    "uptimeDay": "99.80%",
-    "uptimeWeek": "99.78%",
-    "uptimeMonth": "99.95%",
+    "uptime": "99.96%",
+    "uptimeDay": "99.28%",
+    "uptimeWeek": "99.70%",
+    "uptimeMonth": "99.93%",
     "uptimeYear": "99.99%",
     "time": 1252,
     "timeDay": 1220,
@@ -1403,7 +1403,7 @@
     "timeMonth": 1153,
     "timeYear": 1106,
     "dailyMinutesDown": {
-      "2024-10-30": 3,
+      "2024-10-30": 10,
       "2024-10-23": 20,
       "2024-08-14": 19
     }
@@ -1459,17 +1459,17 @@
     "slug": "simone-and-blevins-landlordslegalcenter-com",
     "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "99.90%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.99%",
+    "uptimeDay": "99.38%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
     "time": 458,
     "timeDay": 470,
     "timeWeek": 565,
     "timeMonth": 560,
     "timeYear": 454,
     "dailyMinutesDown": {
-      "2024-10-30": 1,
+      "2024-10-30": 9,
       "2024-08-11": 42,
       "2024-04-26": 34
     }
@@ -1509,7 +1509,7 @@
     "timeMonth": 103,
     "timeYear": 111,
     "dailyMinutesDown": {
-      "2024-10-30": 823,
+      "2024-10-30": 830,
       "2024-10-29": 1440,
       "2024-10-28": 1440,
       "2024-10-27": 1440,
@@ -1947,7 +1947,7 @@
     "timeMonth": 193,
     "timeYear": 442,
     "dailyMinutesDown": {
-      "2024-10-30": 823,
+      "2024-10-30": 830,
       "2024-10-29": 1440,
       "2024-10-28": 1440,
       "2024-10-27": 1440,
