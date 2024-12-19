@@ -80,6 +80,7 @@ status-website:
   navbar:
     - title: Home
       href: /
+  theme: light
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
