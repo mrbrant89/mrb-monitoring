@@ -93,6 +93,4 @@ notifications:
   NOTIFICATION_CUSTOM_WEBHOOK_URL:	${{ secrets.GOOGLE_HOOK }}
 
 assignees:
-  - mrbrant89
-  - seoanimesh07
   - nagamrb
