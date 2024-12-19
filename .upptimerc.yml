@@ -5,8 +5,6 @@ repo: mrb-monitoring # The name of this repository
 sites:
   - name: Sync Social Media [syncsocialmedia.com]
     url: https://syncsocialmedia.com
-  - name: The Resale Source [theresalesource.com]
-    url: https://theresalesource.com
   - name: La Jolla Presbyterian Church [ljpres.org]
     url: https://ljpres.org
   - name: Vitality Integrative Wellness [growwithvitality.com]
@@ -25,10 +23,6 @@ sites:
     url: https://prosperityroad.com
   - name: A Healthy Divorce [ahealthydivorce.com]
     url: https://ahealthydivorce.com
-  - name: Bennch Transport Services [iloilocarrentals.com]
-    url: https://iloilocarrentals.com
-  - name: Same Day Restoration [samedaydamagerestoration.com]
-    url: https://samedaydamagerestoration.com
   - name: Tailored Legal [tailoredlegal.com]
     url: https://tailoredlegal.com
   - name: Ben Aguilar, Esq. [benaguilarlaw.com]
@@ -41,8 +35,6 @@ sites:
     url: https://cvsrtrivianight.org
   - name: Single Oak Realty [singleoakrealty.com]
     url: https://singleoakrealty.com
-  - name: Mike's Extraordinary Soap [mikessoaps.com]
-    url: https://mikessoaps.com
   - name: The GreenHouse Group [thegreenhousegroupinc.com]
     url: https://thegreenhousegroupinc.com
   - name: Robert Ferdowsmakan [torreyhillsoms.com]
@@ -59,8 +51,6 @@ sites:
     url: https://cruise-sd.com
   - name: Simone & Blevins [landlordslegalcenter.com]
     url: https://landlordslegalcenter.com
-  - name: Advanced Oxygen Therapy Inc. [aotinc.net]
-    url: https://aotinc.net
   - name: Adams Avenue [adamsavenuebusiness.com]
     url: https://adamsavenuebusiness.com
   - name: Michael Brant [michaelbrant.com]
