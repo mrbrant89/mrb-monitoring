@@ -67,7 +67,47 @@ sites:
     url: https://wherethehellismichael.com
   - name: WHMCS - MRB Media [secure.mrbmedia.org]
     url: https://secure.mrbmedia.org
-
+  - name: Distinct Construction Solutions [distinctcsolutions.com]
+    url: https://distinctcsolutions.com
+  - name: Thrive Coaching Academy [tcafitnesscoaching.com]
+    url: https://tcafitnesscoaching.com
+  - name: Smarter Wellth [smarterwellth.com]
+    url: https://smarterwellth.com
+  - name: Hummert Financial [hummertfinancial.com]
+    url: https://hummertfinancial.com
+  - name: Rae of Sunshine [raeofsunshinenaturalcare.com]
+    url: https://raeofsunshinenaturalcare.com
+  - name: Sagebrush Saguaro [sagebrushsaguaro.com]
+    url: https://sagebrushsaguaro.com
+  - name: Katalyst Wellness [katalystwellness.com]
+    url: https://katalystwellness.com
+  - name: Well Empowered [wellempowered.com]
+    url: https://wellempowered.com
+  - name: Websites That Elevate [websitesthatelevate.com]
+    url: https://websitesthatelevate.com
+  - name: Catalina Offshore - Online Fish Market [catalinaop.com]
+    url: https://catalinaop.com
+  - name: Compassion Ministries [compassionmexicoministries.org]
+    url: https://compassionmexicoministries.org
+  - name: New Mercy Outreach [newmercyoutreach.com]
+    url: https://newmercyoutreach.com
+  - name: Bedrock Retirement Partners [bedrockretirementpartners.com]
+    url: https://bedrockretirementpartners.com
+  - name: Bay to Bay Financial [baytobayfinancial.com]
+    url: https://baytobayfinancial.com
+  - name: Small Church Big Table [smallchurchbigtable.com]
+    url: https://smallchurchbigtable.com
+  - name: Rogers Experimental House [experimentalhouse.com]
+    url: https://experimentalhouse.com
+  - name: PSERC - Counselors [psercounselors.com]
+    url: https://psercounselors.com
+  - name: PSERC Counseling [pserchelp.com]
+    url: https://pserchelp.com
+  - name: Val Daniyar, DMD [valdaniyar.com]
+    url: https://valdaniyar.com
+  - name: Under the Clouds Spa [spa.valdaniyar.com]
+    url: https://spa.valdaniyar.com
+    
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
