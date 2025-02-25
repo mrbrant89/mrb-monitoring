@@ -14,7 +14,7 @@
     "timeDay": 5213,
     "timeWeek": 3589,
     "timeMonth": 3424,
-    "timeYear": 2316,
+    "timeYear": 2319,
     "dailyMinutesDown": {
       "2025-02-25": 17,
       "2024-12-11": 1273,
@@ -83,7 +83,7 @@
     "timeDay": 1346,
     "timeWeek": 1351,
     "timeMonth": 1513,
-    "timeYear": 1319,
+    "timeYear": 1320,
     "dailyMinutesDown": {
       "2024-11-27": 20,
       "2024-10-30": 20
@@ -98,15 +98,15 @@
     "uptime": "96.30%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "11.73%",
+    "uptimeMonth": "11.70%",
     "uptimeYear": "92.64%",
     "time": 343,
     "timeDay": 67,
     "timeWeek": 113,
     "timeMonth": 334,
-    "timeYear": 339,
+    "timeYear": 338,
     "dailyMinutesDown": {
-      "2025-02-25": 1375,
+      "2025-02-25": 1389,
       "2025-02-24": 1440,
       "2025-02-23": 1440,
       "2025-02-22": 1440,
@@ -152,7 +152,7 @@
     "timeDay": 609,
     "timeWeek": 665,
     "timeMonth": 635,
-    "timeYear": 617,
+    "timeYear": 618,
     "dailyMinutesDown": {
       "2024-10-30": 20
     }
@@ -234,16 +234,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.frontierfp.biz.ico",
     "slug": "frontier-financial-planning-frontierfp-biz",
     "status": "up",
-    "uptime": "37.26%",
+    "uptime": "37.27%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "18.41%",
+    "uptimeYear": "18.42%",
     "time": 338,
     "timeDay": 2441,
     "timeWeek": 2523,
     "timeMonth": 2582,
-    "timeYear": 431,
+    "timeYear": 432,
     "dailyMinutesDown": {
       "2025-01-17": 19,
       "2024-12-19": 1069,
@@ -560,7 +560,7 @@
     "timeDay": 466,
     "timeWeek": 1167,
     "timeMonth": 1295,
-    "timeYear": 854,
+    "timeYear": 853,
     "dailyMinutesDown": {
       "2024-12-19": 1069,
       "2024-12-18": 1440,
@@ -630,7 +630,7 @@
     "timeDay": 373,
     "timeWeek": 390,
     "timeMonth": 749,
-    "timeYear": 461,
+    "timeYear": 462,
     "dailyMinutesDown": {
       "2024-12-19": 1069,
       "2024-12-18": 1440,
@@ -705,7 +705,7 @@
     "timeDay": 623,
     "timeWeek": 637,
     "timeMonth": 888,
-    "timeYear": 620,
+    "timeYear": 621,
     "dailyMinutesDown": {
       "2024-11-01": 24
     }
@@ -725,7 +725,7 @@
     "timeDay": 407,
     "timeWeek": 441,
     "timeMonth": 429,
-    "timeYear": 389,
+    "timeYear": 390,
     "dailyMinutesDown": {
       "2024-12-19": 1069,
       "2024-12-18": 1440,
@@ -795,7 +795,7 @@
     "timeDay": 1236,
     "timeWeek": 1209,
     "timeMonth": 1749,
-    "timeYear": 1151,
+    "timeYear": 1150,
     "dailyMinutesDown": {
       "2025-02-12": 17,
       "2024-12-19": 1069,
@@ -989,7 +989,7 @@
     "timeDay": 7061,
     "timeWeek": 7517,
     "timeMonth": 7163,
-    "timeYear": 6443,
+    "timeYear": 6453,
     "dailyMinutesDown": {}
   },
   {
@@ -1007,7 +1007,7 @@
     "timeDay": 4588,
     "timeWeek": 2588,
     "timeMonth": 2112,
-    "timeYear": 941,
+    "timeYear": 943,
     "dailyMinutesDown": {
       "2024-06-03": 64
     }
@@ -1165,7 +1165,7 @@
     "uptime": "96.85%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "3.70%",
-    "uptimeMonth": "24.76%",
+    "uptimeMonth": "24.72%",
     "uptimeYear": "93.73%",
     "time": 150,
     "timeDay": 105,
@@ -1173,7 +1173,7 @@
     "timeMonth": 188,
     "timeYear": 142,
     "dailyMinutesDown": {
-      "2025-02-25": 1375,
+      "2025-02-25": 1390,
       "2025-02-24": 1440,
       "2025-02-23": 1440,
       "2025-02-22": 1262,
@@ -1266,19 +1266,19 @@
     "url": "https://rockycoastbuilders.com",
     "icon": "https://icons.duckduckgo.com/ip3/rockycoastbuilders.com.ico",
     "slug": "rocky-coast-builders-rockycoastbuilders-com",
-    "status": "down",
+    "status": "up",
     "uptime": "99.95%",
-    "uptimeDay": "99.89%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.79%",
+    "uptimeDay": "99.01%",
+    "uptimeWeek": "99.86%",
+    "uptimeMonth": "99.76%",
     "uptimeYear": "99.94%",
-    "time": 2651,
-    "timeDay": 2428,
-    "timeWeek": 2611,
-    "timeMonth": 3157,
-    "timeYear": 3129,
+    "time": 2653,
+    "timeDay": 2444,
+    "timeWeek": 2594,
+    "timeMonth": 3139,
+    "timeYear": 3128,
     "dailyMinutesDown": {
-      "2025-02-25": 2,
+      "2025-02-25": 14,
       "2025-02-03": 65,
       "2025-01-27": 26,
       "2024-10-07": 24,
@@ -1350,7 +1350,7 @@
     "uptime": "33.78%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.36%",
-    "uptimeMonth": "7.59%",
+    "uptimeMonth": "7.56%",
     "uptimeYear": "10.72%",
     "time": 119,
     "timeDay": 67,
@@ -1358,7 +1358,7 @@
     "timeMonth": 238,
     "timeYear": 124,
     "dailyMinutesDown": {
-      "2025-02-25": 1376,
+      "2025-02-25": 1390,
       "2025-02-24": 1440,
       "2025-02-23": 1440,
       "2025-02-22": 1431,
@@ -1737,7 +1737,7 @@
     "timeDay": 396,
     "timeWeek": 446,
     "timeMonth": 435,
-    "timeYear": 419,
+    "timeYear": 420,
     "dailyMinutesDown": {}
   },
   {
@@ -1757,7 +1757,7 @@
     "timeMonth": 284,
     "timeYear": 336,
     "dailyMinutesDown": {
-      "2025-02-25": 1376,
+      "2025-02-25": 1390,
       "2025-02-24": 1440,
       "2025-02-23": 1440,
       "2025-02-22": 1440,
@@ -1813,7 +1813,7 @@
     "timeDay": 1078,
     "timeWeek": 2796,
     "timeMonth": 1959,
-    "timeYear": 1567,
+    "timeYear": 1569,
     "dailyMinutesDown": {}
   },
   {
@@ -1860,7 +1860,7 @@
     "timeDay": 1354,
     "timeWeek": 1574,
     "timeMonth": 1811,
-    "timeYear": 1434,
+    "timeYear": 1435,
     "dailyMinutesDown": {}
   },
   {
@@ -2000,7 +2000,7 @@
     "timeMonth": 1552,
     "timeYear": 1276,
     "dailyMinutesDown": {
-      "2025-02-25": 1376,
+      "2025-02-25": 1390,
       "2025-02-24": 1440,
       "2025-02-23": 1440,
       "2025-02-22": 1440,
@@ -2060,7 +2060,7 @@
     "timeMonth": 375,
     "timeYear": 282,
     "dailyMinutesDown": {
-      "2025-02-25": 1376,
+      "2025-02-25": 1390,
       "2025-02-24": 1440,
       "2025-02-23": 1440,
       "2025-02-22": 1431,
@@ -2180,18 +2180,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/newmercyoutreach.com.ico",
     "slug": "new-mercy-outreach-newmercyoutreach-com",
     "status": "down",
-    "uptime": "53.88%",
+    "uptime": "53.87%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "3.76%",
-    "uptimeMonth": "20.74%",
-    "uptimeYear": "53.88%",
+    "uptimeMonth": "20.71%",
+    "uptimeYear": "53.87%",
     "time": 250,
     "timeDay": 71,
     "timeWeek": 236,
     "timeMonth": 259,
     "timeYear": 250,
     "dailyMinutesDown": {
-      "2025-02-25": 1376,
+      "2025-02-25": 1390,
       "2025-02-24": 1440,
       "2025-02-23": 1440,
       "2025-02-22": 1199,
@@ -2261,18 +2261,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/smallchurchbigtable.com.ico",
     "slug": "small-church-big-table-smallchurchbigtable-com",
     "status": "down",
-    "uptime": "28.39%",
+    "uptime": "28.38%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.33%",
-    "uptimeYear": "28.39%",
+    "uptimeYear": "28.38%",
     "time": 299,
     "timeDay": 126,
     "timeWeek": 108,
     "timeMonth": 319,
     "timeYear": 299,
     "dailyMinutesDown": {
-      "2025-02-25": 1376,
+      "2025-02-25": 1390,
       "2025-02-24": 1440,
       "2025-02-23": 1440,
       "2025-02-22": 1440,
