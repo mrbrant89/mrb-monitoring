@@ -1,7 +1,7 @@
 url: https://sdwhalewatch.com
-status: up
-code: 200
-responseTime: 430
-lastUpdated: 2025-03-15T15:48:57.298Z
+status: down
+code: 403
+responseTime: 145
+lastUpdated: 2025-03-15T15:57:29.566Z
 startTime: 2023-03-02T19:03:45.000Z
 generator: Upptime <https://github.com/upptime/upptime>
