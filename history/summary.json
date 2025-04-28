@@ -231,11 +231,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.frontierfp.biz.ico",
     "slug": "frontier-financial-planning-frontierfp-biz",
     "status": "up",
-    "uptime": "42.12%",
+    "uptime": "42.13%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "35.40%",
+    "uptimeYear": "35.42%",
     "time": 687,
     "timeDay": 3630,
     "timeWeek": 3098,
@@ -479,8 +479,7 @@
       "2024-05-02": 1440,
       "2024-05-01": 1440,
       "2024-04-30": 1440,
-      "2024-04-29": 1440,
-      "2024-04-28": 1440
+      "2024-04-29": 1440
     }
   },
   {
@@ -723,7 +722,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "79.45%",
+    "uptimeYear": "79.46%",
     "time": 1186,
     "timeDay": 1158,
     "timeWeek": 3165,
@@ -805,8 +804,7 @@
       "2024-05-02": 1440,
       "2024-05-01": 1440,
       "2024-04-30": 1440,
-      "2024-04-29": 1440,
-      "2024-04-28": 1440
+      "2024-04-29": 1440
     }
   },
   {
@@ -1053,11 +1051,11 @@
     "url": "https://torreyhillsoms.com",
     "icon": "https://icons.duckduckgo.com/ip3/torreyhillsoms.com.ico",
     "slug": "robert-ferdowsmakan-torreyhillsoms-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.90%",
-    "uptimeDay": "94.24%",
-    "uptimeWeek": "97.38%",
-    "uptimeMonth": "98.70%",
+    "uptimeDay": "94.74%",
+    "uptimeWeek": "97.45%",
+    "uptimeMonth": "98.71%",
     "uptimeYear": "99.86%",
     "time": 278,
     "timeDay": 105,
@@ -1065,7 +1063,8 @@
     "timeMonth": 299,
     "timeYear": 264,
     "dailyMinutesDown": {
-      "2025-04-27": 83,
+      "2025-04-28": 1,
+      "2025-04-27": 74,
       "2025-04-26": 62,
       "2025-04-25": 44,
       "2025-04-23": 55,
@@ -1321,7 +1320,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/michaelbrant.com.ico",
     "slug": "michael-brant-michaelbrant-com",
     "status": "up",
-    "uptime": "87.89%",
+    "uptime": "87.90%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.68%",
     "uptimeMonth": "99.93%",
