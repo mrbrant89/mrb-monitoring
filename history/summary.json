@@ -1351,7 +1351,7 @@
     "slug": "mr-brant-mrbrant-com",
     "status": "up",
     "uptime": "99.73%",
-    "uptimeDay": "62.43%",
+    "uptimeDay": "63.10%",
     "uptimeWeek": "69.72%",
     "uptimeMonth": "93.03%",
     "uptimeYear": "99.42%",
@@ -1928,11 +1928,11 @@
     "url": "https://spa.valdaniyar.com",
     "icon": "https://icons.duckduckgo.com/ip3/spa.valdaniyar.com.ico",
     "slug": "under-the-clouds-spa-spa-valdaniyar-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.92%",
-    "uptimeDay": "86.79%",
-    "uptimeWeek": "98.11%",
-    "uptimeMonth": "99.57%",
+    "uptimeDay": "86.65%",
+    "uptimeWeek": "98.09%",
+    "uptimeMonth": "99.56%",
     "uptimeYear": "99.92%",
     "time": 741,
     "timeDay": 1651,
@@ -1940,7 +1940,7 @@
     "timeMonth": 959,
     "timeYear": 741,
     "dailyMinutesDown": {
-      "2025-06-12": 190
+      "2025-06-12": 192
     }
   }
 ]
