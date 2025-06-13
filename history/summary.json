@@ -236,7 +236,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.82%",
     "uptimeMonth": "99.96%",
-    "uptimeYear": "47.99%",
+    "uptimeYear": "48.02%",
     "time": 972,
     "timeDay": 2891,
     "timeWeek": 2715,
@@ -435,8 +435,7 @@
       "2024-06-17": 1440,
       "2024-06-16": 1440,
       "2024-06-15": 1440,
-      "2024-06-14": 1440,
-      "2024-06-13": 1440
+      "2024-06-14": 1440
     }
   },
   {
@@ -1351,7 +1350,7 @@
     "slug": "mr-brant-mrbrant-com",
     "status": "up",
     "uptime": "99.73%",
-    "uptimeDay": "73.25%",
+    "uptimeDay": "83.60%",
     "uptimeWeek": "69.72%",
     "uptimeMonth": "93.03%",
     "uptimeYear": "99.42%",
@@ -1612,11 +1611,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/wellempowered.com.ico",
     "slug": "well-empowered-wellempowered-com",
     "status": "up",
-    "uptime": "95.57%",
+    "uptime": "95.58%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "95.57%",
+    "uptimeYear": "95.58%",
     "time": 891,
     "timeDay": 2346,
     "timeWeek": 2053,
@@ -1846,12 +1845,12 @@
     "slug": "rogers-experimental-house-experimentalhouse-com",
     "status": "up",
     "uptime": "99.81%",
-    "uptimeDay": "99.10%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.85%",
     "uptimeMonth": "99.97%",
     "uptimeYear": "99.81%",
     "time": 5892,
-    "timeDay": 9807,
+    "timeDay": 9852,
     "timeWeek": 8584,
     "timeMonth": 7599,
     "timeYear": 5892,
@@ -1930,9 +1929,9 @@
     "slug": "under-the-clouds-spa-spa-valdaniyar-com",
     "status": "up",
     "uptime": "99.89%",
-    "uptimeDay": "82.63%",
-    "uptimeWeek": "97.52%",
-    "uptimeMonth": "99.43%",
+    "uptimeDay": "83.14%",
+    "uptimeWeek": "97.59%",
+    "uptimeMonth": "99.45%",
     "uptimeYear": "99.89%",
     "time": 803,
     "timeDay": 3107,
@@ -1940,7 +1939,7 @@
     "timeMonth": 1239,
     "timeYear": 803,
     "dailyMinutesDown": {
-      "2025-06-12": 250
+      "2025-06-12": 243
     }
   }
 ]
