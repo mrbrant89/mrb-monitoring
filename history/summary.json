@@ -70,8 +70,7 @@
       "2024-10-30": 633,
       "2024-10-26": 19,
       "2024-09-28": 18,
-      "2024-08-11": 49,
-      "2024-06-30": 53
+      "2024-08-11": 49
     }
   },
   {
@@ -234,11 +233,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.frontierfp.biz.ico",
     "slug": "frontier-financial-planning-frontierfp-biz",
     "status": "up",
-    "uptime": "46.40%",
+    "uptime": "46.41%",
     "uptimeDay": "98.07%",
     "uptimeWeek": "98.83%",
     "uptimeMonth": "99.69%",
-    "uptimeYear": "52.64%",
+    "uptimeYear": "52.65%",
     "time": 1124,
     "timeDay": 2359,
     "timeWeek": 3082,
@@ -422,8 +421,7 @@
       "2024-07-04": 1440,
       "2024-07-03": 1440,
       "2024-07-02": 1440,
-      "2024-07-01": 1440,
-      "2024-06-30": 1440
+      "2024-07-01": 1440
     }
   },
   {
@@ -824,8 +822,7 @@
       "2025-03-14": 26,
       "2024-10-26": 17,
       "2024-09-28": 16,
-      "2024-08-11": 46,
-      "2024-06-30": 43
+      "2024-08-11": 46
     }
   },
   {
@@ -998,8 +995,7 @@
       "2025-04-12": 46,
       "2025-04-11": 26,
       "2025-03-14": 26,
-      "2024-08-11": 45,
-      "2024-06-30": 42
+      "2024-08-11": 45
     }
   },
   {
@@ -1145,8 +1141,7 @@
       "2025-02-03": 65,
       "2025-01-27": 26,
       "2024-10-07": 24,
-      "2024-08-11": 43,
-      "2024-06-30": 27
+      "2024-08-11": 43
     }
   },
   {
@@ -1919,19 +1914,20 @@
     "url": "https://valdaniyar.com",
     "icon": "https://icons.duckduckgo.com/ip3/valdaniyar.com.ico",
     "slug": "val-daniyar-dmd-valdaniyar-com",
-    "status": "down",
-    "uptime": "99.20%",
-    "uptimeDay": "90.06%",
-    "uptimeWeek": "93.04%",
-    "uptimeMonth": "95.39%",
-    "uptimeYear": "99.20%",
-    "time": 3381,
-    "timeDay": 3607,
-    "timeWeek": 3463,
-    "timeMonth": 2870,
-    "timeYear": 3381,
+    "status": "up",
+    "uptime": "99.18%",
+    "uptimeDay": "86.33%",
+    "uptimeWeek": "92.50%",
+    "uptimeMonth": "95.27%",
+    "uptimeYear": "99.18%",
+    "time": 3372,
+    "timeDay": 3148,
+    "timeWeek": 3428,
+    "timeMonth": 2857,
+    "timeYear": 3372,
     "dailyMinutesDown": {
-      "2025-06-29": 143,
+      "2025-06-30": 50,
+      "2025-06-29": 147,
       "2025-06-28": 19,
       "2025-06-27": 84,
       "2025-06-26": 21,
@@ -1957,19 +1953,20 @@
     "url": "https://spa.valdaniyar.com",
     "icon": "https://icons.duckduckgo.com/ip3/spa.valdaniyar.com.ico",
     "slug": "under-the-clouds-spa-spa-valdaniyar-com",
-    "status": "down",
-    "uptime": "99.31%",
-    "uptimeDay": "90.19%",
-    "uptimeWeek": "92.94%",
-    "uptimeMonth": "96.00%",
-    "uptimeYear": "99.31%",
-    "time": 1726,
-    "timeDay": 1851,
-    "timeWeek": 3963,
-    "timeMonth": 2686,
-    "timeYear": 1726,
+    "status": "up",
+    "uptime": "99.29%",
+    "uptimeDay": "86.46%",
+    "uptimeWeek": "92.40%",
+    "uptimeMonth": "95.88%",
+    "uptimeYear": "99.29%",
+    "time": 1722,
+    "timeDay": 1648,
+    "timeWeek": 3918,
+    "timeMonth": 2674,
+    "timeYear": 1722,
     "dailyMinutesDown": {
-      "2025-06-29": 141,
+      "2025-06-30": 50,
+      "2025-06-29": 146,
       "2025-06-28": 19,
       "2025-06-27": 82,
       "2025-06-26": 20,
