@@ -1,7 +1,7 @@
 url: https://compassionmexicoministries.org
-status: up
-code: 200
-responseTime: 1320
-lastUpdated: 2025-10-21T23:13:37.304Z
+status: down
+code: 500
+responseTime: 5473
+lastUpdated: 2025-10-22T05:34:55.459Z
 startTime: 2025-01-04T16:10:55.408Z
 generator: Upptime <https://github.com/upptime/upptime>
